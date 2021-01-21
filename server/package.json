@@ -1,0 +1,34 @@
+{
+  "name": "graphql-project",
+  "version": "1.0.0",
+  "description": "GraphQL Project for udemy course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hecarrillo/graphql-project.git"
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "author": "Hector Carrillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hecarrillo/graphql-project/issues"
+  },
+  "homepage": "https://github.com/hecarrillo/graphql-project#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.18.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-import": "^2.22.1",
+    "prettier": "2.2.1"
+  }
+}
